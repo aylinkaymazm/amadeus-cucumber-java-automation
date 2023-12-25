@@ -1,10 +1,10 @@
-# EnUygun Test Project
+# EnUygun Test Project for MAC 
 
 This project contains test automations written with Selenium and Java.
 
 ## Requirements
 
-1. **Java 17:** At least Java version 17 is required to run the project.
+1. **Java 17:** At least Java version 11 is required to run the project.
 
 2. **IntelliJ IDEA:** The project is developed in the IntelliJ IDEA integrated development environment. You can use your preferred IDE if you wish.
 
@@ -15,6 +15,7 @@ This project contains test automations written with Selenium and Java.
 5. **Chrome Driver:** Download the appropriate version for your Chrome from [this link](https://googlechromelabs.github.io/chrome-for-testing/#stable) and add it to your project.
 
 6. **Maven:** The project is managed with Maven. Download and install Maven 3.9.6 from [this link](https://phoenixnap.com/kb/change-zsh-to-bash-mac).
+7. **Report:** https://medium.com/@gokhanagar1/selenium-cucumber-frameworkde-raporlama-499cf078d639 
 
 ## Installation
 
@@ -42,4 +43,5 @@ Additionally, consider the following resources for detailed information:
 - Selenium: Maven project building and setting up Selenium 4.16.1 dependencies can be achieved by following the instructions provided in the [WebDriverManager GitHub repository](https://github.com/bonigarcia/webdrivermanager).
 
 Now you can get your project up and running smoothly with these comprehensive tutorials and resources!
-# only-flight-cucumber-java-automation
+# Reports File:
+resources/cucumber.properties
