@@ -1,6 +1,6 @@
-package com.enuygun.page;
+package com.amadeus.page;
 
-import com.enuygun.utilities.Driver;
+import com.amadeus.utilities.Driver;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;

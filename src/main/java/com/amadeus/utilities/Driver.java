@@ -1,4 +1,4 @@
-package com.enuygun.utilities;
+package com.amadeus.utilities;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;

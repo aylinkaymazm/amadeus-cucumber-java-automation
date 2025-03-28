@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/only-flight-cucumber-java-automation.iml" filepath="$PROJECT_DIR$/only-flight-cucumber-java-automation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/amadeus.iml" filepath="$PROJECT_DIR$/amadeus.iml" />
     </modules>
   </component>
 </project>
